@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de742221-e220-4174-bf22-3ca5dc0c9c63" name="Default Changelist" comment="commit description" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="1324598234 &lt;1324598234@qq.com&gt;" />
+        <option value="hanfei &lt;1324598234@qq.com&gt;" />
+        <option value="testAuthor" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gAYZZ3UAFPwKNmhT6Z4YfjSty6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de742221-e220-4174-bf22-3ca5dc0c9c63" name="Default Changelist" comment="" />
+      <created>1597558919611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597558919611</updated>
+      <workItem from="1597558920833" duration="4953000" />
+    </task>
+    <task id="LOCAL-00001" summary="this a test example">
+      <created>1597559106769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597559106769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this a test example">
+      <created>1597559166007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597559166007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="this a test example">
+      <created>1597565049348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597565049348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this a test example" />
+    <option name="LAST_COMMIT_MESSAGE" value="this a test example" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="23" width="825" height="715" key="CommitChangelistDialog2" timestamp="1597567527636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="307" y="23" width="825" height="715" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1597567527636" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1597559165855" />
+    <state width="297" height="287" key="SwitcherDM" timestamp="1597567749025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="297" height="287" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1597567749025" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1597566286740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1597566286740" />
+    <state x="470" y="170" key="git4idea.branch.GitSmartOperationDialog" timestamp="1597567727366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="470" y="170" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1597567727366" />
+    <state x="515" y="301" key="git4idea.ui.GitTagDialog" timestamp="1597564208333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="515" y="301" key="git4idea.ui.GitTagDialog/0.0.1440.900@0.0.1440.900" timestamp="1597564208333" />
+    <state x="113" y="56" key="new project wizard" timestamp="1597558933553">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="113" y="56" key="new project wizard/0.23.1440.823@0.23.1440.823" timestamp="1597558933553" />
+  </component>
+</project>
